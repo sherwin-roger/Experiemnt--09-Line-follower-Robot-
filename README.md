@@ -145,14 +145,11 @@ void loop(){
 ### WORKING VIDEO  :
 
 
-![3](https://user-images.githubusercontent.com/74660507/174421223-443c8136-5899-42fb-a818-c1b8b85b9afc.jpeg)
 
+https://user-images.githubusercontent.com/74660507/174421262-976aac5e-67f3-411e-bae5-9ba6ec43c596.mp4
 
 
 
 ### RESULTS : 
 
 Thus, a line follower robot and control its motion using differential velocity is designed and simulated.
-
-
-

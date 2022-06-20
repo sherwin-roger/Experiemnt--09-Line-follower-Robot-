@@ -145,8 +145,7 @@ void loop(){
 ### WORKING VIDEO  :
 
 
-
-https://user-images.githubusercontent.com/74660507/174421262-976aac5e-67f3-411e-bae5-9ba6ec43c596.mp4
+![3](https://user-images.githubusercontent.com/74660507/174421056-1d8a1ed2-857f-49a9-a1ed-38c8b3b8ee4a.jpeg)
 
 
 
